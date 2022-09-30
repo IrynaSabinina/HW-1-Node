@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "commander": "^9.4.1",
+    "cors": "^2.8.5",
+    "expres": "^0.0.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.2",
+    "nanoid": "^4.0.0",
+    "node": "^18.9.1"
+  },
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.1.2",
+    "nodemon": "^2.0.20"
+  }
+}
